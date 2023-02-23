@@ -1,0 +1,38 @@
+<!-- about page -->
+<p>
+  Hello, I am John Doe and I am a web developer. I live and work in
+  somewhere warm. I spend most of my day, experimenting with HTML, CSS and
+  JavaScript (and its endless list of frameworks). I enjoy coding and the
+  challenge of learning something new everyday. You can also find me at youtube
+  channel
+  <a href="https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA"
+    >coding addict</a
+  >
+</p>
+
+<!-- contact page-->
+<p>
+  If you are looking to get ahold of me, you can send me an email at
+  <a href="mailto:email@email.com">@your_email</a>
+</p>
+<p>
+  You can also reach me on Twitter at
+  <a href="https://www.twitter.com">@your_social_media </a>
+</p>
+
+
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque
+            voluptatem inventore, molestias perspiciatis quas voluptas quisquam
+            nihil provident dignissimos ex? Blanditiis rerum assumenda,
+            voluptatum sapiente omnis voluptatibus error ab odit nihil, corporis
+            dolores excepturi nostrum! Cum iure iusto id illo?
+
+
+I believe that technology and software are crucial in improving individuals' and businesses' lives.
+As I self taught Software Developer, I am always looking to find ways to solve a specific problem, and
+on the hunt for ways to challenge and expand my skillset.
+
+While I am skilled in different technology stacks, as a daily user of Apple products, I am passionate about
+building projects and apps that I can develop natively for the devices I use the most. This is why I have chosen to building
+mobile applications using Apple's own Swift programming language and SwiftUI framework.
